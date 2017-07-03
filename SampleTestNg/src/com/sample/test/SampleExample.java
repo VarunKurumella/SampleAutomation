@@ -7,6 +7,7 @@ public class SampleExample {
 	
 	@Test()
 	public void test1(){
+		//sample
 		System.out.println("regression Started");
 		Assert.assertEquals("varun", "varun", "regression failed");
 		String value = "varun kurumella";
